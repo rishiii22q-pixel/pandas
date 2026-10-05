@@ -1,0 +1,51 @@
+Customer ID,Customer Name,Region,Customer Segment,Sales Stage,Sales Date,Product,Category,Country,Sales,Cost,Profit Margin,Target Status,Priority,Deal Status,Sales Channel,Close Date
+1, alice johnson ,NORTH,Consumer,Prospecting,05-01-2026,Laptop,Electronics,India,50000,42000,0.16,Target,High,Closed Won,Online,12-01-2026
+2,BOB SMITH,South,Corporate,Qualified,08-01-2026,Office Chair,Furniture,India,18000,12000,0.33,Target,Medium,Closed Won,Retail,15-01-2026
+3,Carol  Davis, east ,consumer,Negotiation,10-01-2026,Mobile Phone,electronics,India,32000,35000,-0.09,Below Target,Low,Closed Lost,Online,
+4,david lee,West,Corporate,Proposal,12-01-2026,Desk,Furniture,India,22000,15000,0.32,Target,Medium,Open,Retail,20-01-2026
+5, EMILY BROWN,North,SMB,Prospecting,15-01-2026,Monitor,Electronics,India,15000,9000,0.4,Target,High,Open,Online,
+6,Frank Wilson,south,Consumer,Qualified,18-01-2026,Printer,electronics,India,12500,8000,0.36,Target,Medium,Closed Won,Retail,25-01-2026
+7,grace  miller,EAST,corporate,Negotiation,20-01-2026,Laptop,Electronics,India,58000,47000,0.19,Target,High,Closed Won,Online,28-01-2026
+8,Henry Moore ,west,SMB,Proposal,22-01-2026,Table,Furniture,India,26000,18000,0.31,Target,Medium,Open,Retail,
+9,Irene Taylor,,consumer,Qualified,25-01-2026,Headphones,Electronics,India,8000,5000,0.38,Below Target,Low,Closed Lost,Online,02-02-2026
+10,jack anderson,South,Corporate,Negotiation,28-01-2026,Sofa,Furniture,India,45000,30000,0.33,Target,High,Closed Won,Retail,05-02-2026
+11,Karen Thomas,east, smb ,Prospecting,01-02-2026,Keyboard,electronics,India,4500,2500,0.44,Target,Medium,Open,Online,
+12,Liam Jackson,West ,Consumer,Qualified,03-02-2026,Tablet,Electronics,India,28000,19000,0.32,Target,High,Closed Won,Retail,10-02-2026
+13,Mia White,North,Corporate,Proposal,05-02-2026,Cabinet,Furniture,India,30000,21000,0.3,Target,Medium,Open,Retail,
+14,NOAH HARRIS,South,consumer,Negotiation,08-02-2026,Smart Watch,Electronics,India,12000,7000,0.42,Below Target,Low,Closed Lost,Online,15-02-2026
+15,Olivia Martin,East,SMB,Prospecting,10-02-2026,Mouse,Electronics,India,2500,1200,0.52,Target,Low,Open,Online,
+16,Peter Thompson,West,Corporate,Qualified,12-02-2026,Conference Table,Furniture,India,65000,45000,0.31,Target,High,Closed Won,Retail,20-02-2026
+17, Quinn Garcia ,North,Consumer,Proposal,15-02-2026,Camera,Electronics,India,40000,28000,0.3,Target,Medium,Open,Online,
+18,Rachel Martinez,South ,Corporate,Negotiation,18-02-2026,Bookshelf,Furniture,India,14000,9000,0.36,Target,Medium,Closed Won,Retail,25-02-2026
+19,Sam Robinson,East,SMB,Qualified,20-02-2026,Webcam,Electronics,India,,4200,0.4,Below Target,Low,Closed Lost,Online,27-02-2026
+20,Tina Clark,West,consumer,Prospecting,22-02-2026,Desk Lamp,Furniture,India,5500,3000,0.45,Target,Low,Open,Retail,
+21,Uma Rodriguez,North,Corporate,Qualified,25-02-2026,Laptop,Electronics,India,62000,48000,0.23,Target,High,Closed Won,Online,03-03-2026
+22,Victor Lewis,South,SMB,Proposal,28-02-2026,Office Chair,Furniture,India,20000,13500,0.33,Target,Medium,Open,Retail,
+23,Wendy Lee,East ,Consumer,Negotiation,02-03-2026,Mobile Phone,Electronics,India,35000,24000,0.31,Target,High,Closed Won,Online,09-03-2026
+24,xavier walker,West,Corporate,prospecting,05-03-2026,Printer,Electronics,India,13000,8000,0.38,Below Target,Low,Open,Retail,
+25,Yara Hall,North,SMB,Qualified,08-03-2026,Monitor,Electronics,India,17000,10000,0.41,Target,Medium,Closed Won,Online,15-03-2026
+26,Zach Allen,South,Consumer,Proposal,10-03-2026,Dining Table,Furniture,India,38000,25000,0.34,Target,Medium,Open,Retail,
+27,alice johnson ,north,Consumer,Prospecting,05-01-2026,Laptop,Electronics,India,50000,42000,0.16,Target,High,Closed Won,Online,12-01-2026
+28,Ben Young,East,Corporate,Negotiation,15-03-2026,Projector,electronics,India,27000,16000,0.41,Below Target,Low,Closed Lost,Online,22-03-2026
+29,Chloe King,West ,SMB,Qualified,18-03-2026,Keyboard,Electronics,India,5000,2800,0.44,Target,Low,Open,Online,
+30,Daniel Wright,North,Corporate,Proposal,20-03-2026, sofa ,Furniture,India,48000,32000,0.33,Target,High,Closed Won,Retail,28-03-2026
+31,Eva Lopez,South,Consumer,Negotiation,22-03-2026,Tablet,Electronics,India,30000,20500,0.32,Target,Medium,Closed Won,Online,30-03-2026
+32,  Finn   Hill  ,East,SMB,Prospecting,25-03-2026,Mouse,Electronics,India,2800,1300,0.54,Below Target,Low,Open,Online,
+33,Gina Scott,West,Corporate,Qualified,28-03-2026,Cabinet,Furniture,India,32000,22000,0.31,Target,Medium,Closed Won,Retail,05-04-2026
+34,Harry Green,North,Consumer,Proposal,30-03-2026,Camera,ELECTRONICS,India,42000,29000,0.31,Target,High,Open,Online,
+35,Isla Adams,South ,Corporate,Negotiation,02-04-2026,Conference Table,Furniture,India,68000,46000,0.32,Target,High,Closed Won,Retail,10-04-2026
+36,Jon Baker,East,SMB,Qualified,05-04-2026,Headphones,Electronics,India,9000,5200,0.42,Below Target,Low,Closed Lost,Online,12-04-2026
+37,Kara Nelson,West,Consumer,Prospecting,08-04-2026,Desk,Furniture,India,24000,16000,0.33,Target,Medium,Open,Retail,
+38,Leo Carter,North,Corporate,Qualified,10-04-2026,Smart Watch,Electronics,India,13500,7600,0.44,Target,Medium,Closed Won,Online,18-04-2026
+39,Maya Mitchell,South,SMB,Proposal,12-04-2026,Bookshelf,Furniture,India,15500,9800,0.37,Target,Medium,Open,Retail,
+40,Nate Perez,East,Consumer,Negotiation,15-04-2026,Webcam,Electronics,India,7500,4500,0.4,Below Target,Low,Closed Lost,Online,22-04-2026
+41,Owen Roberts,West,Corporate,Qualified,18-04-2026,Laptop,Electronics,India,60000,45500,0.24,Target,High,Closed Won,Online,26-04-2026
+42,Paula Turner,north ,SMB,Prospecting,20-04-2026,Office Chair,Furniture,India,19000,12500,0.34,Target,Medium,Open,Retail,
+43,Reed Phillips,South,Consumer,Proposal,22-04-2026,Mobile Phone,Electronics,India,33000,23000,0.3,Target,High,Closed Won,Online,30-04-2026
+44,Sara Campbell,East,Corporate,Negotiation,not available,Printer,Electronics,India,14000,8500,0.39,Below Target,Low,Closed Lost,Retail,02-05-2026
+45,Tom Parker,West,SMB,Qualified,28-04-2026,Monitor,Electronics,India,16000,9500,0.41,Target,Medium,Closed Won,Online,05-05-2026
+46,Usha Evans,North,Consumer,Prospecting,01-05-2026,Dining Table,Furniture,India,40000,27000,0.33,Target,Medium,Open,Retail,
+47,Vikram Edwards,South,Corporate,Qualified,03-05-2026,Projector,Electronics,India,29000,17000,0.41,Target,High,Closed Won,online,10-05-2026
+48,Willa Collins,East,SMB,Proposal,05-05-2026,Keyboard,Electronics,India,5200,3000,N/A,Below Target,Low,Open,Online,
+49,Yusuf Stewart,West,Consumer,Negotiation,08-05-2026,Sofa,Furniture,India,50000,34000,0.32,Target,High,Closed Won,Retail,15-05-2026
+50,Zoe Sanchez,North,Corporate,Qualified,10-05-2026,Cabinet,Furniture,India,34000,23000,0.32,Target,Medium,Closed Won,Retail,18-05-2026

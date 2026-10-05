@@ -1,0 +1,41 @@
+order_id,customer_name,date,total,status,payment_method
+ORD-1001,Alice Whitfield,2024-01-05,249.99,Completed,Credit Card
+ORD-1002,Derek Yoon,2024-01-08,134.98,Completed,PayPal
+ORD-1003,Ben Gallagher,2024-01-12,59.99,Completed,Credit Card
+ORD-1004,Emily Sato,2024-01-15,89.97,Shipped,Apple Pay
+ORD-1005,Grace Okonkwo,2024-01-20,329.97,Completed,Credit Card
+ORD-1006,Henry Tran,2024-01-23,44.99,Cancelled,PayPal
+ORD-1007,Irene Kowalczyk,2024-01-28,199.98,Completed,Bank Transfer
+ORD-1008,Karen Liu,2024-02-02,74.98,Completed,Credit Card
+ORD-1009,Leo Vasquez,2024-02-05,149.99,Shipped,Apple Pay
+ORD-1010,Nathan Reeves,2024-02-10,24.99,Completed,PayPal
+ORD-1011,Olivia Brennan,2024-02-14,469.97,Completed,Credit Card
+ORD-1012,Rachel Greene,2024-02-18,34.99,Refunded,Credit Card
+ORD-1013,Alice Whitfield,2024-02-22,179.98,Completed,Credit Card
+ORD-1014,Sam Abadi,2024-02-26,89.99,Completed,Bank Transfer
+ORD-1015,Derek Yoon,2024-03-01,64.98,Shipped,PayPal
+ORD-1016,Tina Hoffman,2024-03-05,299.99,Completed,Credit Card
+ORD-1017,Vera Stanton,2024-03-08,54.98,Pending,Apple Pay
+ORD-1018,Ben Gallagher,2024-03-12,129.99,Completed,Credit Card
+ORD-1019,Emily Sato,2024-03-16,219.97,Completed,Apple Pay
+ORD-1020,Yusuf Ali,2024-03-20,49.98,Completed,PayPal
+ORD-1021,Grace Okonkwo,2024-03-24,159.99,Shipped,Credit Card
+ORD-1022,Zoe McCarthy,2024-03-28,94.98,Completed,Bank Transfer
+ORD-1023,Henry Tran,2024-04-01,349.98,Completed,Credit Card
+ORD-1024,Karen Liu,2024-04-05,39.98,Pending,PayPal
+ORD-1025,Irene Kowalczyk,2024-04-09,119.99,Completed,Bank Transfer
+ORD-1026,Nathan Reeves,2024-04-13,84.97,Completed,Credit Card
+ORD-1027,Cassandra Wolfe,2024-04-17,199.99,Shipped,Apple Pay
+ORD-1028,Leo Vasquez,2024-04-21,69.98,Cancelled,PayPal
+ORD-1029,Olivia Brennan,2024-04-25,249.97,Completed,Credit Card
+ORD-1030,Alice Whitfield,2024-04-29,174.98,Completed,Credit Card
+ORD-1031,Sam Abadi,2024-05-03,59.98,Completed,Bank Transfer
+ORD-1032,Rachel Greene,2024-05-07,449.97,Completed,Credit Card
+ORD-1033,Derek Yoon,2024-05-11,29.99,Pending,PayPal
+ORD-1034,Patrick Simmons,2024-05-15,144.98,Completed,Credit Card
+ORD-1035,Emily Sato,2024-05-19,89.99,Shipped,Apple Pay
+ORD-1036,Tina Hoffman,2024-05-23,109.98,Completed,Credit Card
+ORD-1037,Ben Gallagher,2024-05-27,79.98,Refunded,PayPal
+ORD-1038,Grace Okonkwo,2024-06-01,199.98,Completed,Credit Card
+ORD-1039,Diego Ruiz,2024-06-05,314.97,Shipped,Bank Transfer
+ORD-1040,Vera Stanton,2024-06-09,64.99,Completed,Apple Pay
